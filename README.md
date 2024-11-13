@@ -33,7 +33,8 @@ CareerPath Finder is an interactive web application that helps computer science 
    v)npm install
    vi)Start the Vite Development Server: npm run dev
    
-![webapp_home_page](https://github.com/user-attachments/assets/4d2ac9f6-3b8a-43d0-a613-061899717820)
+![homepage](https://github.com/user-attachments/assets/63e6e55a-52ba-4b39-8945-107e3a6ebbb5)
+
 ![project_form](https://github.com/user-attachments/assets/384adbfa-98fb-418a-a9b8-179e75ae4260)
 
 
