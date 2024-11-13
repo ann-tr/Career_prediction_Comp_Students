@@ -1,0 +1,62 @@
+.footer {
+    background-color: #6f526f;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+    font-family: Arial, sans-serif;
+  }
+  
+  .footer-container {
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+  
+  .footer-company {
+    font-size: 1.5em;
+    margin: 0;
+    color: #fff;
+  }
+  
+  .footer-tagline {
+    font-style: italic;
+    color: #ddd;
+  }
+  
+  .footer-contact p {
+    margin: 5px 0;
+  }
+  
+  .footer-contact a {
+    color: #eee;
+    text-decoration: none;
+  }
+  
+  .footer-social {
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+    margin: 15px 0;
+  }
+  
+  .social-link {
+    color: #fff;
+    font-size: 1.5em;
+    transition: color 0.3s ease;
+  }
+
+  .social-icons img {
+    width: 20px;  /* Smaller size */
+    height: 20px;
+    margin-right: 10px;
+    cursor: pointer;
+  }
+  .social-link:hover {
+    color: #c079ed; /* Twitter Blue as example */
+  }
+  
+  .footer-rights {
+    font-size: 1.2em;
+    color: #aaa;
+    margin-top: 10px;
+  }
+  

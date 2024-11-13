@@ -1,0 +1,77 @@
+.site-container {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    margin-top: 20px;
+    padding: 20px;
+}
+
+.programmer-photo {
+    width: 550px;
+    height: auto;
+    margin-right: 20px;
+    border-radius: 10px;
+}
+
+.site-info {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    margin-top: 5%;
+}
+
+.know-more {
+    text-align: left;
+    margin-right: 0;
+    margin-top: 10%;
+    font-size: 1.2em;
+    color: #167dbd;
+    margin-bottom: 20px;
+}
+
+.wanna-know{
+    font-size: 1.2em;
+    color: black;
+    margin-bottom: 20px;
+    font-weight: bold;
+}
+
+.know-more p {
+    margin: 0;
+}
+
+.know-more span {
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.site-content {
+    text-align: left;
+    margin-left: 0;
+    margin-top: 5%;
+}
+
+.site-main-quote {
+    font-size: 2.5em;
+    font-weight: bold;
+    color: black;
+    margin-top: 2%;
+    margin-bottom: 20px;
+}
+
+
+
+.check-site-button {
+    padding: 10px 20px;
+    font-size: 1em;
+    color: #fff;
+    background-color: #824c8d;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.check-site-button:hover {
+    background-color: #dc9fee;
+}

@@ -1,0 +1,60 @@
+.career-form {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 8px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .career-form h1 {
+    text-align: center;
+    color: #333;
+    margin-bottom: 20px;
+  }
+  
+  .career-form label {
+    display: block;
+    margin-top: 10px;
+    font-weight: bold;
+    color: #555;
+  }
+  
+  .career-form input[type="number"],
+  .career-form select {
+    width: 100%;
+    padding: 8px;
+    margin-top: 5px;
+    margin-bottom: 10px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+  }
+  
+  .career-form input[type="radio"] {
+    margin: 0 5px 10px 0;
+  }
+  
+  .career-form .submit-button {
+    width: 100%;
+    padding: 10px;
+    background-color: #ceb7db;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+  }
+  
+  .career-form .submit-button:hover {
+    background-color: #9e71be;
+  }
+  
+  .prediction-result {
+    margin-top: 20px;
+    padding: 10px;
+    background-color: #f7ddf8;
+    color: #864c8a;
+    text-align: center;
+    border-radius: 4px;
+    font-weight: bold;
+  }
