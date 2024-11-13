@@ -18,7 +18,7 @@ CareerPath Finder is an interactive web application that helps computer science 
 
 
 
-1. **Create a Virtual Environment**:
+### Create a Virtual Environment
     python -m venv env
     source env/bin/activate  # For Linux/macOS
     env\Scripts\activate     # For Windows
